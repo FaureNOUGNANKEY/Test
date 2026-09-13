@@ -1,0 +1,13 @@
+/* style.css */
+p {
+  font-family: Arial, Helvetica, sans-serif; /* Police lisible */
+  font-size: 16px;                          /* Taille du texte */
+  line-height: 1.6;                         /* Espacement entre lignes */
+  color: #333333;                           /* Couleur du texte */
+  text-align: justify;                      /* Justification du paragraphe */
+  margin: 15px 0;                           /* Espacement autour du paragraphe */
+  padding: 10px;                            /* Espacement interne */
+  background-color: #f9f9f9;                /* Fond léger */
+  border-left: 4px solid #007acc;           /* Barre décorative à gauche */
+  border-radius: 5px;                       /* Coins arrondis */
+}
